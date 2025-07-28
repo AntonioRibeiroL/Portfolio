@@ -24,7 +24,7 @@ Focus Areas:
 
 ---
 
-## 💼 Work Experience
+## Work Experience
 
 ### AK Legal Costs Consultants – Pretoria Central, Gauteng  
 **Filing Assistant (Admin)** | *Feb 2024 – Present*  
@@ -55,11 +55,11 @@ Focus Areas:
 
 ---
 
-## 🛠️ Projects
+## Projects
 
 ---
 
-## 📞 Contact Me
+## Contact Me
 
 - 📧 [antonio.ribeiro0516@gmail.com](mailto:antonio.ribeiro0516@gmail.com)  
 - 📱 [+27 68 216 7936](tel:+27682167936)  
