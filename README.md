@@ -1,4 +1,4 @@
-# Antonio Ribeiro — Aspiring Data Scientist
+# Data Scientist
 
 ---
 
