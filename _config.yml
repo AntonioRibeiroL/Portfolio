@@ -2,37 +2,33 @@ title: Antonio Ribeiro
 description: >
   Aspiring Data Scientist enrolled in the ALX Data Science program. Experienced in data analytics, Python, machine learning, legal & warehouse admin, Oracle & Excel.
 
-url: "https://antonioribeirol.github.io"
-baseurl: ""
+email: antonio.ribeiro0516@gmail.com
+phone: "+27 68 216 7936"
+linkedin: https://www.linkedin.com/in/antonio-ribeiro-b212382a6/
 
-# ✅ Use only remote_theme for GitHub Pages
-remote_theme: mmistakes/minimal-mistakes
+theme: minimal-mistakes-jekyll
 
 plugins:
-  - jekyll-include-cache
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
-author:
-  name   : "Antonio Ribeiro"
-  avatar : "/assets/images/avatar.png"
-  bio    : >
-    I'm Antonio Ribeiro, an aspiring Data Scientist enrolled in the ALX Data Science program. I have a strong foundation in data analytics, Python, and machine learning, combined with practical experience in legal and warehouse administration.
+# Homepage sections order
+homepage_sections:
+  - about
+  - video
+  - portfolio
+  - contact
 
-email: antonio.ribeiro0516@gmail.com
-linkedin: https://www.linkedin.com/in/antonio-ribeiro-b212382a6/
-phone: +27 68 216 7936
+# Personal info for About section
+  name: Antonio Ribeiro
+  email: antonio.ribeiro0516@gmail.com
+  phone: "+27 68 216 7936"
+  linkedin: https://www.linkedin.com/in/antonio-ribeiro-b212382a6/
 
-defaults:
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
+# Social icons in header/footer
+  email: antonio.ribeiro0516@gmail.com
+  linkedin: https://www.linkedin.com/in/antonio-ribeiro-b212382a6/
 
-include:
-  - _pages
-
-collections:
-  pages:
-    output: true
-    permalink: /:path/
-
+# Disable downloads (optional)
+show_downloads: false
