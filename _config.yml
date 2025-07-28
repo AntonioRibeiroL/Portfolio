@@ -14,3 +14,29 @@ description: >
 
 show_downloads: false
 theme: jekyll-theme-minimal
+
+# Elevator Pitch Video Settings
+elevator_pitch:
+  heading: "My Elevator Pitch"
+  description: "Get to know me in under a minute — watch my quick intro!"
+  video_path: " "
+  poster_image: " "
+
+# Resume Section
+resume:
+  path: "Assets/Antonio Ribeiro One Page CV Updated.pdf"
+
+# Skills Progress (10-block visual)
+skills:
+  - name: Python
+    level: 90
+  - name: Data Analytics
+    level: 75
+  - name: Machine Learning
+    level: 70
+  - name: AWS Cloud
+    level: 60
+  - name: SQL
+    level: 60
+  - name: Git & GitHub
+    level: 70
