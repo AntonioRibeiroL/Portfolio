@@ -1,23 +1,28 @@
 ---
-layout: splash
-title: "Welcome to My Portfolio"
-permalink: /
+layout: home
 ---
 
-# 👋 Hi, I’m Antonio Ribeiro
+# About Me
 
-An aspiring data scientist passionate about solving real-world problems using data. Below is a short video intro about me!
+I'm Antonio Ribeiro, an aspiring Data Scientist enrolled in the ALX Data Science program.  
+I have a strong foundation in data analytics, Python, and machine learning, combined with practical experience in legal and warehouse administration.  
+Skilled in data organization, reporting, and tools like Oracle and Excel, I’m motivated to leverage my skills to solve real-world problems and deliver actionable insights.
 
----
+# Introduction Video
 
-## 🎥 Watch My Intro
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YOUR_VIDEO_ID" frameborder="0" allowfullscreen></iframe>
 
-<div style="text-align:center;">
-  <iframe width="560" height="315"
-    src="https://www.youtube.com/embed/YOUR_VIDEO_ID_HERE"
-    title="Intro Video"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-  </iframe>
-</div>
+# Portfolio
+
+Here are some of my projects:
+
+- [Project One](https://github.com/antonioribeirol/project-one)
+- [Project Two](https://github.com/antonioribeirol/project-two)
+
+# Contact
+
+Feel free to reach out!
+
+- Email: [antonio.ribeiro0516@gmail.com](mailto:antonio.ribeiro0516@gmail.com)  
+- Phone: +27 68 216 7936  
+- LinkedIn: [Antonio Ribeiro](https://www.linkedin.com/in/antonio-ribeiro-b212382a6/)
