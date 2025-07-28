@@ -1,7 +1,18 @@
 # Data Scientist
 
 ## Education
-Matric
+
+## Prosperitus Secondary High, Pretoria, Gauteng                                                                        2019
+## Grade 12
+•	Subjects: Technical Mathematics, Technical Science, Electrical Technology, Engineering Graphics and Design, Afrikaans (Home Language), English 
+
+## ALX Africa 
+## Data Science - Short Course                                                                                           2025 - Present                                                                                          
+•	Data Analytics
+•	 Phyton
+•	Machine Learning
+•	AWS Cloud Practitioner
+
 
 ## Work Experience
 
