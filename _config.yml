@@ -10,6 +10,8 @@ theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-include-cache
 
+remote_theme: mmistakes/minimal-mistakes
+
 author:
   name   : "Antonio Ribeiro"
   avatar : "/assets/images/avatar.png"
