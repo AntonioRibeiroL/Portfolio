@@ -71,5 +71,5 @@ Focus Areas:
 
 You can download my resume using the link below:
 
-[Download My Resume]( )
+[Download My Resume](Assets/Antonio Ribeiro One Page CV Updated.pdf)
 
