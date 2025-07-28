@@ -5,8 +5,8 @@ Matric
 
 ## Work Experience
 
-###AK Legal Costs Consultants – Pretoria Central, Gauteng
-###Filing Assistant (Admin) | February 2024 – Present
+### AK Legal Costs Consultants – Pretoria Central, Gauteng
+### Filing Assistant (Admin) | February 2024 – Present
 
 •	Organized and managed comprehensive records for legal costs, billing, and expenses.
 •	Developed and maintained efficient filing systems (digital and physical) for easy access to documentation.
@@ -17,8 +17,8 @@ Matric
 •	Collaborated with team members to enhance the efficiency of filing processes.
 •	Upheld confidentiality and data security standards in handling sensitive legal documents.
 
-###Takealot Warehouse JHB – Kempton Park, Gauteng
-###Production Administrator (Outbound) | August 2022 – February 2024
+### Takealot Warehouse JHB – Kempton Park, Gauteng
+### Production Administrator (Outbound) | August 2022 – February 2024
 
 •	Monitored picker and packer productivity, providing hourly statistics to management.
 •	Updated productivity rates using spreadsheets, ensuring tasks met deadlines for efficient service.
@@ -27,8 +27,8 @@ Matric
 •	Assisted with inventory management, health and safety procedures, and floor cleanliness.
 •	Supported fellow administrators and staff with task completion and system operations.
 
-###Takealot Warehouse JHB – Kempton Park, Gauteng
-###Picker (Outbound) | September 2021 – August 2022
+### Takealot Warehouse JHB – Kempton Park, Gauteng
+### Picker (Outbound) | September 2021 – August 2022
 
 •	Filled customer orders based on specific size, quantity, and quality specifications.
 •	Performed quality checks and ensured proper labeling for outgoing shipments.
