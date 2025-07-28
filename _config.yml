@@ -8,11 +8,6 @@ linkedin: https://www.linkedin.com/in/antonio-ribeiro-b212382a6/
 
 theme: minimal-mistakes-jekyll
 
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
-
 # Homepage sections order
 homepage_sections:
   - about
@@ -20,15 +15,15 @@ homepage_sections:
   - portfolio
   - contact
 
-# Personal info for About section
+author:
   name: Antonio Ribeiro
   email: antonio.ribeiro0516@gmail.com
   phone: "+27 68 216 7936"
   linkedin: https://www.linkedin.com/in/antonio-ribeiro-b212382a6/
 
-# Social icons in header/footer
+social:
   email: antonio.ribeiro0516@gmail.com
   linkedin: https://www.linkedin.com/in/antonio-ribeiro-b212382a6/
 
-# Disable downloads (optional)
 show_downloads: false
+
