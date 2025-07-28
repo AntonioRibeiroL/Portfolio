@@ -2,15 +2,14 @@ title: Antonio Ribeiro
 description: >
   Aspiring Data Scientist enrolled in the ALX Data Science program. Experienced in data analytics, Python, machine learning, legal & warehouse admin, Oracle & Excel.
 
-url: "https://antonioribeirol.github.io"  # your GitHub Pages URL
-baseurl: ""  # keep this empty unless your site is in a subfolder
+url: "https://antonioribeirol.github.io"
+baseurl: ""
 
-theme: minimal-mistakes-jekyll
+# ✅ Use only remote_theme for GitHub Pages
+remote_theme: mmistakes/minimal-mistakes
 
 plugins:
   - jekyll-include-cache
-
-remote_theme: mmistakes/minimal-mistakes
 
 author:
   name   : "Antonio Ribeiro"
@@ -36,3 +35,4 @@ collections:
   pages:
     output: true
     permalink: /:path/
+
