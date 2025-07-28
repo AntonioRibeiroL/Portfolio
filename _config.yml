@@ -10,7 +10,7 @@ description: >
   <a href="https://www.linkedin.com/in/antonio-ribeiro-b212382a6/" target="_blank">
     <i class="fab fa-linkedin-in"></i> LinkedIn Profile
   </a><br><br>
-  I'm Antonio Ribeiro, an aspiring Data Scientist enrolled in the ALX Data Science program. I have a strong foundation in data analytics, Python, and machine learning, combined with practical experience in legal and warehouse administration. Skilled in data organization, reporting, and tools like Oracle and Excel, I’m motivated to leverage my skills to solve real-world problems and deliver actionable insights.
-
-show_downloads: false
-theme: jekyll-theme-minimal
+  I'm Antonio Ribeiro, an aspiring Data Scientist enrolled in the ALX Data Science program. I have a strong foundation in data analytics, Python, and machine learning, combined with practical experience in legal and warehouse administration. Skilled in data organization, reporting, and tools like Oracle and Excel, I’m motivated to leverage my skills to solve real-world problems and deliver actionable insights.<br><br>
+  <a href=" " target="_blank" style="font-weight:bold; color:#1a73e8;">
+    <i class="fas fa-file-pdf"></i> View My Elevator Pitch
+  </a>
