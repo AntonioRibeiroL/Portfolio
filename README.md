@@ -24,6 +24,19 @@ Focus Areas:
 
 ---
 
+## Skills
+
+| Skill             | Progress             |
+|-------------------|----------------------|
+| Python            | █░░░░░░░░░ 10%       |
+| Data Analytics    | ░░░░░░░░░░ 00%       |
+| Machine Learning  | ░░░░░░░░░░ 00%       |
+| AWS Cloud         | ░░░░░░░░░░ 00%       |
+| SQL               | ░░░░░░░░░░ 00%       |
+| Git & GitHub      | ░░░░░░░░░░ 00%       |
+
+---
+
 ## Work Experience
 
 ### AK Legal Costs Consultants – Pretoria Central, Gauteng  
@@ -72,4 +85,3 @@ Focus Areas:
 You can download my resume using the link below:
 
 [Download My Resume](Assets/Antonio Ribeiro One Page CV Updated.pdf)
-
