@@ -1,4 +1,4 @@
-title: Antonio Ribeiro
+title: Antonio Ribeiro 
 logo: Assets/am1r.jpg
 description: >
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"><br>
@@ -10,9 +10,11 @@ description: >
   </a><br>
   <a href="https://www.linkedin.com/in/antonio-ribeiro-b212382a6/" target="_blank">
     <i class="fab fa-linkedin-in"></i> LinkedIn Profile
+  </a><br>
+  <a href="https://www.youtube.com/watch?v=your-video-id" target="_blank">
+    <i class="fas fa-video"></i> My Elevator Pitch
   </a><br><br>
   I'm Antonio Ribeiro, an aspiring Data Scientist in the ALX Data Science program. I have skills in data analytics, Python, machine learning, and experience in legal and warehouse administration. Proficient in Oracle and Excel, I aim to apply my knowledge to solve real-world problems and provide valuable insights
 
 show_downloads: false
 theme: jekyll-theme-minimal
-
