@@ -61,9 +61,9 @@ Focus Areas:
 
 ## Contact Me
 
-- 📧 [antonio.ribeiro0516@gmail.com](mailto:antonio.ribeiro0516@gmail.com)  
-- 📱 [+27 68 216 7936](tel:+27682167936)  
-- 💼 [LinkedIn Profile](https://www.linkedin.com/in/antonio-ribeiro-b212382a6/)
+- [antonio.ribeiro0516@gmail.com](mailto:antonio.ribeiro0516@gmail.com)  
+- [+27 68 216 7936](tel:+27682167936)  
+- [LinkedIn Profile](https://www.linkedin.com/in/antonio-ribeiro-b212382a6/)
 
 ---
 
