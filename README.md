@@ -1,54 +1,66 @@
-# Data Scientist
+# Antonio Ribeiro — Aspiring Data Scientist
+
+---
 
 ## Education
 
-### Prosperitus Secondary High, Pretoria, Gauteng                                                                        
-### 2019
-### Grade 12
-•	Subjects: Technical Mathematics, Technical Science, Electrical Technology, Engineering Graphics and Design, Afrikaans (Home Language), English 
+### Prosperitus Secondary High — Pretoria, Gauteng  
+**Grade 12 (2019)**  
+Subjects:  
+- Technical Mathematics  
+- Technical Science  
+- Electrical Technology  
+- Engineering Graphics and Design  
+- Afrikaans (Home Language)  
+- English
 
-## ALX Africa 
-### Data Science - Short Course                                                                                           
-### 2025 - Present    
+### ALX Africa — Data Science Program  
+**2025 – Present**  
+Focus Areas:  
+- Data Analytics  
+- Python  
+- Machine Learning  
+- AWS Cloud Practitioner  
 
-•	Data Analytics
-•	 Phyton
-•	Machine Learning
-•	AWS Cloud Practitioner
+---
 
+## 💼 Work Experience
 
-## Work Experience
+### AK Legal Costs Consultants – Pretoria Central, Gauteng  
+**Filing Assistant (Admin)** | *Feb 2024 – Present*  
+- Organized and managed records for legal costs, billing, and expenses.  
+- Developed digital and physical filing systems for efficient access.  
+- Prepared and analyzed billing data; generated internal and client reports.  
+- Coordinated with legal staff and clients to collect documents for claims.  
+- Ensured accuracy and compliance with regulatory documentation standards.  
+- Provided admin support: scheduling, answering inquiries, and correspondence.  
+- Helped improve filing efficiency and maintained confidentiality.
 
-### AK Legal Costs Consultants – Pretoria Central, Gauteng
-### Filing Assistant (Admin) | February 2024 – Present
+### Takealot Warehouse JHB – Kempton Park, Gauteng  
+**Production Administrator (Outbound)** | *Aug 2022 – Feb 2024*  
+- Monitored picker/packer productivity and shared stats with management.  
+- Updated spreadsheets to track hourly performance and task completion.  
+- Ensured accurate labeling/packaging of orders, improving accuracy.  
+- Used Oracle systems to monitor task SLA completion.  
+- Assisted with inventory, safety, and cleanliness compliance.  
+- Supported fellow administrators with system-related tasks.
 
-•	Organized and managed comprehensive records for legal costs, billing, and expenses.
-•	Developed and maintained efficient filing systems (digital and physical) for easy access to documentation.
-•	Assisted in preparing and analyzing billing data, producing reports for clients and internal purposes.
-•	Coordinated with legal staff and clients to gather documentation for cost assessments and claims.
-•	Ensured accuracy and regulatory compliance in all documentation and filings.
-•	Provided administrative support, including scheduling appointments, answering inquiries, and maintaining correspondence.
-•	Collaborated with team members to enhance the efficiency of filing processes.
-•	Upheld confidentiality and data security standards in handling sensitive legal documents.
+### Takealot Warehouse JHB – Kempton Park, Gauteng  
+**Picker (Outbound)** | *Sept 2021 – Aug 2022*  
+- Picked and packed orders by size, quantity, and quality standards.  
+- Performed quality checks and labeling for shipments.  
+- Operated RF scanners for inventory tracking.  
+- Maintained picking equipment and ensured health/safety adherence.  
+- Delivered tasks on time to support downstream warehouse operations.
 
-### Takealot Warehouse JHB – Kempton Park, Gauteng
-### Production Administrator (Outbound) | August 2022 – February 2024
+---
 
-•	Monitored picker and packer productivity, providing hourly statistics to management.
-•	Updated productivity rates using spreadsheets, ensuring tasks met deadlines for efficient service.
-•	Ensured accurate labelling and packaging of customer orders, improving order accuracy.
-•	Utilized Oracle systems to track and ensure timely completion of daily tasks (SLA).
-•	Assisted with inventory management, health and safety procedures, and floor cleanliness.
-•	Supported fellow administrators and staff with task completion and system operations.
+## 🛠️ Projects
 
-### Takealot Warehouse JHB – Kempton Park, Gauteng
-### Picker (Outbound) | September 2021 – August 2022
+---
 
-•	Filled customer orders based on specific size, quantity, and quality specifications.
-•	Performed quality checks and ensured proper labeling for outgoing shipments.
-•	Operated RF scanners to manage inventory and orders accurately.
-•	Maintained order-picking equipment and adhered to health and safety standards.
-•	Ensured timely completion of tasks, facilitating workflow for packers and other warehouse staff.
+## 📞 Contact Me
 
-
-### Projects
+- 📧 [antonio.ribeiro0516@gmail.com](mailto:antonio.ribeiro0516@gmail.com)  
+- 📱 [+27 68 216 7936](tel:+27682167936)  
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/antonio-ribeiro-b212382a6/)
